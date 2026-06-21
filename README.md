@@ -58,6 +58,11 @@ streamlit run app.py
 * Cloud deployment
 * Advanced analytics dashboard
 
+## Live Demo
+
+https://speech-sentiment-analyzer-saachi.streamlit.app/
+
+
 ## Author
 
 Saachi Vij
