@@ -1,0 +1,6 @@
+Timestamp,Transcript,Sentiment,Emotion
+2026-06-21 13:44:26,Very happy today.,POSITIVE,joy
+2026-06-21 13:47:45,Please,POSITIVE,neutral
+2026-06-21 13:48:15,Very sad today.,NEGATIVE,sadness
+2026-06-21 14:33:09," Sachi, I am very happy today.",POSITIVE,joy
+2026-06-21 14:43:38," Actually, I am 20 years old.",POSITIVE,neutral
